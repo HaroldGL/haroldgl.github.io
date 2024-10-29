@@ -4,3 +4,10 @@ h1
     height: auto;
     text-align: center;
 }
+
+p
+{
+  font: "Helvetica";
+  height: auto;
+  text-align: center;
+}
