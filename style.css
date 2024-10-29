@@ -1,6 +1,7 @@
 html
 {
   font-family: Helvetica;
+  font-style:bold;
   text-align: center;
 }
 
@@ -22,6 +23,29 @@ div#menu
 {
   float:left;
   width:20%;
-  height:auto;
-  background-color: #E35349
+  height:fit-content;
+  background-color: #E35349;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a
+{
+  text-decoration-line:none;
+  color: white;
+}
+
+a:hover
+{
+  text-decoration-line: underline;
+}
+
+img
+{
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px grey;
 }
