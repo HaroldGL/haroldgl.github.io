@@ -1,16 +1,6 @@
 h1
 {
-	font: small-caps bold 95px "Trebuchet MS";
-    color: white;
+	font: small-caps bold 95px "Helvetica";
     height: auto;
     text-align: center;
-    border: 0px black solid;
-    border-radius: 50px 50px 50px 50px;
-    background-size: cover;
-    background-position: top;
-    background-attachment: fixed;
-    margin-top: 0;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-bottom: 0;
 }
