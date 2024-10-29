@@ -1,14 +1,8 @@
-html
-{
-    background-color: #e3e3e3;
-}
-
 h1
 {
 	font: small-caps bold 95px "Trebuchet MS";
     color: white;
     height: auto;
-    text-shadow: 5px 5px 2px black;
     text-align: center;
     border: 0px black solid;
     border-radius: 50px 50px 50px 50px;
@@ -19,5 +13,4 @@ h1
     padding-top: 15px;
     padding-bottom: 15px;
     margin-bottom: 0;
-    box-shadow: 5px 5px 5px grey;
 }
