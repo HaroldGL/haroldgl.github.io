@@ -8,8 +8,14 @@ html
 h1
 {
 	font-family: Helvetica;
-    height: auto;
-    text-align: center;
+  height: auto;
+  text-align: center;
+  text-size-adjust: 70px;
+}
+
+li
+{
+  padding:10px;
 }
 
 p
@@ -17,6 +23,13 @@ p
   font-family: Helvetica;
   height: auto;
   text-align: center;
+  text-size-adjust: 40px;
+}
+
+ul
+{
+  list-style-type:none;
+  text-size-adjust: 50px;
 }
 
 div#menu
@@ -24,9 +37,9 @@ div#menu
   float:left;
   width:20%;
   height:fit-content;
-  background-color: #E35349;
+  background-color: #C5E7E2;
   border-radius: 10px;
-  box-shadow: 3px 3px 3px grey;
+  box-shadow: 5px 5px 5px grey;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -47,5 +60,5 @@ a:hover
 img
 {
   border-radius: 10px;
-  box-shadow: 3px 3px 3px grey;
+  box-shadow: 3px 3px 3px white;
 }
