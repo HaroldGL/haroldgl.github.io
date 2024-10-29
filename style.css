@@ -1,13 +1,13 @@
 h1
 {
-	font: small-caps bold 95px "Helvetica";
+	font-family: Helvetica;
     height: auto;
     text-align: center;
 }
 
 p
 {
-  font-style: "Helvetica";
+  font-family: Helvetica;
   height: auto;
   text-align: center;
 }
